@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... things I'm working on.
 - 🌱 I’m currently learning ... how to learn effectively.
-- 👯 I’m looking to collaborate on ... my collaborators.
+- 👯 I’m looking to collaborate on ... our collaborations.
 - 🤔 I’m looking for help with ... my problems.
 - 💬 Ask me about ... questions I may or may not answer.
 - 📫 How to reach me: ... by sending magic packets.
