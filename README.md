@@ -2,7 +2,7 @@ I created this because it's cool.
 
 ## Hi there 👋
 
-**idezbug/idezbug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**idzbg/idzbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
